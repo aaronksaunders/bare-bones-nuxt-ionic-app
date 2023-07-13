@@ -1,0 +1,10 @@
+<template>
+  <IonPage>
+    <IonHeader>
+      <IonToolbar></IonToolbar>
+    </IonHeader>
+    <IonContent>
+      <IonButton>TEST</IonButton>
+    </IonContent>
+  </IonPage>
+</template>
